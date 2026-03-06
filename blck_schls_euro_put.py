@@ -4,7 +4,7 @@ from scipy.stats import norm
 # parameters
 S0 = 95
 sigma = 0.2
-r = 0.02
+r = 0.04
 T = 1
 
 # strikes 
